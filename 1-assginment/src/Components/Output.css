@@ -1,0 +1,10 @@
+.output-div{
+    margin: 50px auto; 
+    border: 2px solid black;
+    box-shadow: 3px 3px grey;
+    width: 65%;
+}
+
+p{
+    text-align: center;
+}
